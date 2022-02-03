@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=yurizoom&color=blue&label=Профиль+посетило)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurizoom&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yurizoom&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -22,11 +24,14 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <!-- 
+https://habr.com/ru/post/649363/
 https://github.com/anuraghazra/github-readme-stats 
 https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/ryo-ma/github-profile-trophy
 https://github.com/Ileriayo/markdown-badges
 https://github.com/anuraghazra/github-readme-stats
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yurizoom&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurizoom&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 --!>
