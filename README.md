@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurizoom&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yurizoom&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurizoom&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Используемые редакторы
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
@@ -28,4 +27,6 @@ https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/ryo-ma/github-profile-trophy
 https://github.com/Ileriayo/markdown-badges
 https://github.com/anuraghazra/github-readme-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurizoom&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 --!>
